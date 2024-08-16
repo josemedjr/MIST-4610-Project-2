@@ -1,4 +1,4 @@
-# MIST-4610-Project-2
+# Tableau Data Cleaning and Visualization
 # MIST 4610 Group 8 Project 2
 
 
